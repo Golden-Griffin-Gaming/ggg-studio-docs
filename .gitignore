@@ -1,0 +1,26 @@
+# Windows / editor junk
+.vs/
+.vscode/
+Thumbs.db
+Desktop.ini
+*.tmp
+*.bak
+
+# Large art/source files
+*.psd
+*.afphoto
+*.afdesign
+*.afpub
+
+# Archives / exports / videos
+*.zip
+*.7z
+*.rar
+*.mp4
+*.mov
+*.avi
+
+# Build/output folders
+Builds/
+Exports/
+Dist/
